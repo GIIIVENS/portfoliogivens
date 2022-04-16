@@ -24,9 +24,8 @@ body {
 
 
 
-.header div {
-    padding-top: 15px;
-    margin-right: 20px;
+.header ul {
+    /* margin-right: 20px; */
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     font-size: 20px;
@@ -71,14 +70,14 @@ p {
     margin-right: 30px;
     border-radius: 50%;
     border: 5px solid white ;
-}
+} 
 
 
 .float-right {
     float: rightt;
     margin-right: 30px;
 
-}
+} 
 
 .content {
     width: 100%;
@@ -117,7 +116,9 @@ p {
 
 
 .social-media-marketing img {
-    max-height: 200px;    
+    max-height: 200px;  
+    width: 200px;
+    object-fit: cover;  
 }
 
 .search-engine-optimization h2 {
@@ -253,6 +254,19 @@ form {
         margin-right: -20px;
         width: 70%;
     }
+    .header ul {
+        /* padding-top: 15px; */
+        margin-right: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+    .header {
+        padding: 60px;
+        font-family: Arial, Helvetica, sans-serif;
+        background-color: black;
+        color: #ffffff;
+    }
 
     .benefits {
         clear: both; 
@@ -262,3 +276,9 @@ form {
     } 
         
 }
+
+/* product is responsive to device resize. the header is giving me issues i cannot get the padding to surround the navigation tools properly
+ */
+/* after renaming classes to make it more cohesize mt code crashes so i cannot rename all classes to my liking for some reason
+and that is after making sure all spelling is correct and that the calss name is mirrored in the html and savred */
+/* phot resizing is also breaking my code */
