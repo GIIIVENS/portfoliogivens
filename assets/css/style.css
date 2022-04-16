@@ -62,7 +62,10 @@ p {
     background-position: center;
 
 }
+.flow { max-width: 100%;
+    height: auto;
 
+}
 .float-left {
     float: left;
     margin-right: 30px;
@@ -109,26 +112,32 @@ p {
     background-color: black;
     color: #ffffff;
     border: 4px solid #b9c6ae;
+   
 }
 
 
 .social-media-marketing img {
-    max-height: 200px;
+    max-height: 200px;    
 }
 
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
+   
+
 }
 
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
+ 
 }
 
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
+    text-align: center;
+    border: 4px dotted #b9c6ae;
 } 
 
 
@@ -153,7 +162,7 @@ form {
   button {
     padding: 1% 2%;
     color: #fff;
-    background-color: #13293d;
+    background-color: #b9c6ae;
     border: none;
     outline: none;
     cursor: pointer;
