@@ -7,7 +7,8 @@ This is an app is a portfolio that gives a select view into givens' body of work
 ##
 
 Technologies Used
-HTML
+HTML 
+CSS
 
 
 ##
