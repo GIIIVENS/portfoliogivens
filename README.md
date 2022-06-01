@@ -8,13 +8,17 @@ This is an app is a portfolio that gives a select view into givens' body of work
 
 Technologies Used
 HTML
-Tailwind CSS Framework
 
 
 ##
 
 Usage
 Here is an example of the final page
+
+ 
+- [Resume](https://drive.google.com/file/d/1puzqUKntnJDFwadxEc_M6IXUsAx5SKm4/view?usp=sharing)
+- [CV](https://drive.google.com/file/d/1J5kWqx03sE8AhHTdbkIMgpsery0C5j7d/view?usp=sharing)
+
 
 ## 
 
