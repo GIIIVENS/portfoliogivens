@@ -4,6 +4,9 @@ For the first entry the site has operation HTML,  CSS, and working media queries
 Description
 This is an app is a portfolio that gives a select view into givens' body of work/ 
 
+[deployed version link](https://giiivens.github.io/portfoliogivens/)
+
+
 ##
 
 Technologies Used
